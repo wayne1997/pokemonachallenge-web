@@ -1,5 +1,11 @@
 # Proyecto web POKEMONAPP (Jonathan Chiriboga)
 
+# Repositorio del Backend
+
+```
+https://github.com/wayne1997/pokemonapp-api.git
+```
+
 Este proyecto se encuentra desarrollado con las siguientes tecnologias:
 
 1. Reactjs version: 18.2.0
