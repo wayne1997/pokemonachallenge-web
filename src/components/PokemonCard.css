@@ -1,0 +1,21 @@
+.PokemonCardContainer{
+    width: 250px;
+}
+
+.PokemonCardContainerImage{
+    height: 100%;
+    width: 100%;
+}
+
+.PokemonCardTitle{
+    font-family: 'Press Start 2P', cursive;
+    text-transform: capitalize;
+}
+.PokemonCardBodyText{
+    font-size: smaller;
+}
+
+.PokemonCardBodyButton{
+    font-family: 'Press Start 2P', cursive;
+    white-space: nowrap;
+}
